@@ -11,3 +11,7 @@ A Crime Scene Layout is a visual documentation of the scene of a crime as it app
 The available sources, where forensic investigators can start to look for evidence, can comprise all technical devices. These may contain on a device-level, IoT devices (e.g., smart plugs, sockets, doorbell, speakers, voice assistants, fridge, coffee machine, robot vacuum cleaner or shutters) and wearables (smartphones, watches or clothes) directly connected with a person. On a network-level, a smart home can provide evidence via hubs, communication between devices and cloud, client apps, etc. From a cloud-level view, all data in the cloud, can provide PDE. For network and cloud-level these differ. In this work we focus on device-level forensics, especially on IoT devices in smart home environments 
 
 ![alt text](https://github.com/SF1995/Smart-Home-IoT-Device-Forensics-Literature/blob/main/evidence.png?raw=true)
+
+There exist various data extraction approaches for data from mobile devices. These are methods that are already used in mobile phone forensics and could be adopted for IoT devices in a very similar form. A general distinction is made into three categories: (1) manual, (2) logical, and (3) physical extraction.
+
+![alt text](https://github.com/SF1995/Smart-Home-IoT-Device-Forensics-Literature/blob/main/extraction5.png?raw=true)
